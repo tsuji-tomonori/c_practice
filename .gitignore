@@ -50,3 +50,14 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# pdf
+*.pdf
+
+# compile
+hello
+isbn_struct
+jp_book_code
+union_test
+union_test1
+union_test2
